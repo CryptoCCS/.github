@@ -1,0 +1,17 @@
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG] "
+labels: bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Describe the bug**
+  - type: input
+    id: steps
+    attributes:
+      label: Steps to reproduce
+  - type: input
+    id: expected
+    attributes:
+      label: Expected behavior
