@@ -1,0 +1,9 @@
+# Contributing to CryptoCCS projects
+
+Thanks for wanting to contribute! Please:
+1. Fork the repo and create a branch: `git checkout -b feat/my-feature`
+2. Run tests locally
+3. Open a PR with a clear description and link issues if any
+4. Respect the code style and add tests for bugfixes/features
+
+Code of Conduct: be respectful — PRs/comments should be professional.
