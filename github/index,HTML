@@ -1,0 +1,17 @@
+crypto-toolkit/
+├─ .github/
+│  ├─ workflows/ci.yml
+│  ├─ ISSUE_TEMPLATE/
+│  │  ├─ bug.yml
+│  │  └─ feature_request.yml
+│  └─ PULL_REQUEST_TEMPLATE.md
+├─ src/
+│  └─ (code)
+├─ test/
+├─ docs/
+│  └─ README.md
+├─ examples/
+├─ .gitignore
+├─ README.md
+├─ LICENSE
+└─ package.json / pyproject.toml / Cargo.toml
